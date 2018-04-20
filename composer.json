@@ -1,0 +1,14 @@
+{
+  "name": "lukovnikov/mybootstrap",
+  "type": "drupal-theme-lukovnikov",
+  "description": "My theme based on UIKit.",
+  "homepage": "",
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Vsevolod"
+    }
+  ],
+  "require": { },
+  "require-dev": { }
+}
